@@ -1,0 +1,32 @@
+[
+    {
+        "item": "Carrots",
+        "price": 3,
+        "quantity": 43
+    },
+    {
+        "item": "Potatoes",
+        "price": 2,
+        "quantity": 66
+    },
+    {
+        "item": "Leeks",
+        "price": 5,
+        "quantity": 16
+    },
+    {
+        "item": "Apples",
+        "price": 1,
+        "quantity": 62
+    },
+    {
+        "item": "Oranges",
+        "price": 2,
+        "quantity": 47
+    },
+    {
+        "item": "Lemons",
+        "price": 3,
+        "quantity": 52
+    }
+]
